@@ -5,3 +5,4 @@ Class Main{
 	}
 }
 ashfjsjkh
+hello ThreadDeath
